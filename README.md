@@ -77,18 +77,3 @@ largest at ~5 MB and ~10 MB); subsequent runs read the cache.
 
 ## References
 
-- T. Hastie, R. Tibshirani, J. Friedman. *The Elements of Statistical Learning*, 2nd ed., 2009.
-- C. Bishop. *Pattern Recognition and Machine Learning*, 2006.
-- K. Murphy. *Machine Learning: A Probabilistic Perspective*, 2012.
-- F. Rosenblatt. The perceptron. *Psychological Review*, 1958; S. Gallant. Perceptron-based learning (pocket). *IEEE TNN*, 1990.
-- L. Breiman, J. Friedman, R. Olshen, C. Stone. *Classification and Regression Trees*, 1984.
-- L. Breiman. Random forests. *Machine Learning*, 2001.
-- Y. Freund, R. Schapire. A decision-theoretic generalization of on-line learning. *JCSS*, 1997; J. Zhu et al. Multi-class AdaBoost (SAMME). *Statistics and Its Interface*, 2009.
-- J. Friedman. Greedy function approximation: a gradient boosting machine. *Annals of Statistics*, 2001.
-- J. Friedman, T. Hastie, R. Tibshirani. Regularization paths via coordinate descent. *JSS*, 2010.
-- J. Platt. Sequential minimal optimization. Microsoft Research TR, 1998; S. Shalev-Shwartz et al. Pegasos. *ICML*, 2007.
-- D. Arthur, S. Vassilvitskii. k-means++. *SODA*, 2007; P. Rousseeuw. Silhouettes. *J. Comp. Appl. Math.*, 1987; L. Hubert, P. Arabie. Comparing partitions (adjusted Rand). *J. Classification*, 1985.
-- M. Ester, H.-P. Kriegel, J. Sander, X. Xu. DBSCAN. *KDD*, 1996.
-- L. van der Maaten, G. Hinton. Visualizing data using t-SNE. *JMLR*, 2008.
-- Y. Koren, R. Bell, C. Volinsky. Matrix factorization for recommender systems. *IEEE Computer*, 2009.
-- G. Golub, C. Van Loan. *Matrix Computations*, 4th ed., 2013 (Jacobi eigenvalue method).
