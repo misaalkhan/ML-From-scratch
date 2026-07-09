@@ -75,5 +75,5 @@ largest at ~5 MB and ~10 MB); subsequent runs read the cache.
 - Python >= 3.9 (developed on 3.10)
 - NumPy (see `requirements.txt`)
 
-## References
+
 
